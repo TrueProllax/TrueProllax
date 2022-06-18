@@ -10,3 +10,5 @@ Hello! It's my resume projects:
 
 
 3. The swing projects
+
+- llax_swing_AppWatching (24.06.2022)
